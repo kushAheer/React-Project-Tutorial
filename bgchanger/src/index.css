@@ -2,19 +2,3 @@
 @tailwind components;
 @tailwind utilities; 
 
-/* body{
-  margin: 0;
-}
-.Container{
-  width: 100%;
-  height: 100vh;
-  
-}
-.NavBar{
-  display: flex;
-  justify-content: center;
-  gap: 1%;
-} 
-.NavBarItems{
-  padding: 10%;
-} */
