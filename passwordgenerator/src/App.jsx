@@ -6,7 +6,7 @@ import { useState } from "react"
 
 
 function App() {
-  const [length, setLength] = useState(8)
+  const [length, setLength] = useState(6)
   const [numberAllowed, setNumberAllowed] = useState(false)
   const [characterAllowed, setcharacterAllowed] = useState(false)
   const [password, setPassword] = useState("")
